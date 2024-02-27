@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="javagradle1.AppTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2024-02-27T15:12:24" hostname="DESKTOP-IOFS6O2" time="0.029">
+  <properties/>
+  <testcase name="devolverTercero()" classname="javagradle1.AppTest" time="0.011"/>
+  <testcase name="devolverTerceroMenos()" classname="javagradle1.AppTest" time="0.001"/>
+  <testcase name="devolverTerceroVacio()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="contarElementosBasico()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="SumarElementosBasico()" classname="javagradle1.AppTest" time="0.001"/>
+  <testcase name="devolverUltimo()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="devolverPrimero()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="SumarElementosVacios()" classname="javagradle1.AppTest" time="0.001"/>
+  <testcase name="devolverUltimoVacio()" classname="javagradle1.AppTest" time="0.001"/>
+  <testcase name="MediaElementosNegativos()" classname="javagradle1.AppTest" time="0.002"/>
+  <testcase name="SumarElementosNegativos()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="MediaElementosBasicos()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="contarElementosVacio()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="MediaElementosVacios()" classname="javagradle1.AppTest" time="0.0"/>
+  <testcase name="devolverPrimeroVacio()" classname="javagradle1.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
